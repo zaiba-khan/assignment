@@ -1,4 +1,4 @@
-package com.zettamin.caseStudies.day02;
+package com.zettamine.caseStudies.day02;
 
 public class EmployeeLoanMain {
 
